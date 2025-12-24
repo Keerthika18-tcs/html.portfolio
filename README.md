@@ -27,6 +27,4 @@ building practical projects while learning new technologies.
 ## 🛠️ Technologies Used
 - HTML5
 
----
 
-## 📂 Project Structure
